@@ -1,0 +1,15 @@
+{
+  "name": "electron-pdf-viewer",
+  "version": "1.0.0",
+  "description": "electron-pdf-viewer",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.1"
+  },
+  "dependencies": {
+    "pdfjs-dist-viewer-min": "^2.12.313"
+  }
+}
